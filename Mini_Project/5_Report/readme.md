@@ -62,16 +62,18 @@ At some point of time there is chance that sensor can be rust.
 
 2.Availability of water in the tank.
 
+## BEHAVIORAL DIAGRAM
+![Behavioral diagram](https://user-images.githubusercontent.com/94282195/144267367-0953e134-2196-4b8b-87ec-0c7b23237acf.jpg)
+
+
 ## STRUCTURAL DIAGRAM
 ![Structural diagram](https://user-images.githubusercontent.com/94282195/144260614-5b609176-53a8-4555-99af-e17d3a1fa5a2.PNG)
 
 ## BLOCK DIAGRAM
 ![Block diagram](https://user-images.githubusercontent.com/94282195/144260695-9f61af7c-e82b-469d-8f9c-658a771b49bb.PNG)
 
-## SIMULATION 1
-![Simulation 1](https://user-images.githubusercontent.com/94282195/144260756-5cd00e89-c29b-4032-887f-4b1d625341ca.jpg)
 
-## SIMULATION 2
+## SIMULATION 
 ![Simulation  2](https://user-images.githubusercontent.com/94282195/144260827-70a95a43-d975-49ba-8ad4-323e8b364f16.jpg)
 
 
